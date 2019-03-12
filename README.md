@@ -1,2 +1,2 @@
 # StateMachines
-Module to Demonstrate the Statemachines uasage in Safeway.
+Module to Demonstrate the Statemachines usage in Safeway.
